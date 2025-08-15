@@ -177,3 +177,9 @@ sudo nxpkg clean --all --force
 With their system clean, synchronized, and perfectly tailored to their needs, Alex closes the terminal. It was a productive day with NxPKG.
 
 随着系统变得干净、同步，并完美地满足了自己的需求，Alex 关闭了终端。这是使用 NxPKG 高效的一天。
+
+
+
+Note: The above packages did not exist at the time of publication of this document, but the functional infrastructure supporting their existence is already relatively complete.
+
+备注：以上各个包在本文件发布之时尚不存在，然而支撑其存在的功能基础设施已经较为完善。
