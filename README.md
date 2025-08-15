@@ -4,10 +4,11 @@
 
 [**A Day With NxPKG(`a_day_with_nxpkg.md`)**](./a_day_with_nxpkg.md)
 
-
 **NxPKG (Project Chimera) is a personal vision and implementation of a next-generation package manager, boldly fusing declarative system management, meta-distro capabilities, P2P content distribution, and blockchain consensus.**
 
 The entire system is deliberately implemented as a single, self-contained, **9,000+ line shell script**, with inlined Python for secure networking tasks. It is both a functional prototype and an exploration of what's possible with the humblest of tools.
+
+If you wish to search for The NxPKG Interoperability Standard, please turn to the end of this document.
 
 ---
 
@@ -182,3 +183,6 @@ For more in-depth information, please see the following documents:
 *   [**命令参考 (`all_commands.md`)**](./all_commands.md): 包含每个命令及其参数的详细参考手册。
 *   [**Mod 系统详解 (`mod_details.md`)**](./mod_details.md): 对 Mod 系统的适用范围、权限和安全模型的分析。
 *   [**关于测试的说明 (`for_testers.md`)**](./for_testers.md): 为 NxPKG 构建一个全面测试框架的路线图。
+
+See more:
+[nxpkg_standard.md](https://github.com/user-attachments/files/21798514/nxpkg_standard.md)
