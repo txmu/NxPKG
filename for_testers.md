@@ -2,7 +2,7 @@
 
 A comprehensive suite of automated unit and integration tests is a critical component for a project of this complexity. Currently, NxPKG lacks a formal testing script, and it's important to understand the unique challenges involved.
 
-对于一个如此复杂的项目，一套全面的自动化单元和集成测试是至关重要的。目前，NxPKG 缺少一个正式的测试脚本，而理解其背后独特的挑战是十分重要的。
+对于一个如此复杂的项目，一套全面的自动化单元和集成测试是至关重要的。目前，NxPKG 缺少一个正式的测试脚本，原因见下。
 
 ---
 
