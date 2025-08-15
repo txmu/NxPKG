@@ -32,7 +32,7 @@ Testing NxPKG isn't as simple as testing a standalone application. Its core feat
 
 The foundation for a robust testing environment is already built into NxPKG's design. A dedicated testing script could leverage these features to create a fully simulated, multi-node environment locally. Here is a proposed roadmap:
 
-一个健壮的测试环境的基础已经内置于 NxPKG 的设计之中。一个专用的测试脚本可以利用这些特性在本地创建一个完全模拟的、多节点的环境。这是一个建议的路线图：
+一个健壮的测试环境的基础已经内置于 NxPKG 的设计之中。专用的测试脚本可以利用这些特性在本地创建一个完全模拟的、多节点的环境。这是一份建议的路线图：
 
 #### **Step 1: Create a Mock Environment**
 #### **步骤 1: 创建一个模拟环境**
