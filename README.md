@@ -2,6 +2,9 @@
 
 [**简体中文 (`README_zh.md`)**](./README_zh.md)
 
+[**A Day With NxPKG(`a_day_with_nxpkg.md`)**](./a_day_with_nxpkg.md)
+
+
 **NxPKG (Project Chimera) is a personal vision and implementation of a next-generation package manager, boldly fusing declarative system management, meta-distro capabilities, P2P content distribution, and blockchain consensus.**
 
 The entire system is deliberately implemented as a single, self-contained, **9,000+ line shell script**, with inlined Python for secure networking tasks. It is both a functional prototype and an exploration of what's possible with the humblest of tools.
