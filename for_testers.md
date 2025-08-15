@@ -25,10 +25,6 @@ Testing NxPKG isn't as simple as testing a standalone application. Its core feat
 4.  **Testing the Strata System requires external package managers.** To verify that Strata can be created and managed, the test environment needs access to tools like `debootstrap`, `pacstrap`, etc., and the ability to run them in an isolated context.
     **测试 Strata 系统需要外部包管理器。** 为了验证 Strata 可以被创建和管理，测试环境需要能访问像 `debootstrap`、`pacstrap` 这样的工具，并有能力在隔离的环境中运行它们。
 
-Currently, the primary "test" has been through manual, integrated usage ("dogfooding") on a single-node network, such as initializing the system, syncing the default repository, and installing the `app-misc/hello-world` package.
-
-目前，主要的“测试”是通过在单节点网络上的手动集成使用（“吃自己的狗粮”）来完成的，例如初始化系统、同步默认仓库以及安装 `app-misc/hello-world` 软件包。
-
 ---
 
 ### A Path Forward: Building a Test Harness
