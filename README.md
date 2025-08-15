@@ -8,7 +8,7 @@
 
 The entire system is deliberately implemented as a single, self-contained, **9,000+ line shell script**, with inlined Python for secure networking tasks. It is both a functional prototype and an exploration of what's possible with the humblest of tools.
 
-If you wish to search for The NxPKG Interoperability Standard, please turn to the end of this document.
+If you want to see *The NxPKG Interoperability Standard*, please turn to the end of this document and download the attachment.
 
 ---
 
